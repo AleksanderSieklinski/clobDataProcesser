@@ -270,11 +270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Gry\\ProjektBD\\clobDataProcesser\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\clobDataProcesser\\app\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\Gry\\ProjektBD\\clobDataProcesser\\app\\app.csproj",
+      "projectPath": "C:\\Users\\aleks\\Desktop\\clobDataProcesser\\app\\app.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Gry\\ProjektBD\\clobDataProcesser\\app\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\Desktop\\clobDataProcesser\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"

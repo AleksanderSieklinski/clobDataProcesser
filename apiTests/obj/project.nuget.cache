@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "orKBzNfDn8NvFhKP0aFfJ0iql2lYS82IJ8LZ1O01poc/1eID2HPpmmEW70nwMTs54sGBEE+lrxebZBDy3Aec0w==",
+  "dgSpecHash": "5GtJ6Nc3RjnMQBkjhwkTwN/JJxNE3MwSpCMpgSaqFrAE7R3tubWx2z8vk5xzbilQuby9s8f4wP3wMO2cd+zo3w==",
   "success": true,
-  "projectFilePath": "C:\\Gry\\ProjektBD\\clobDataProcesser\\apiTests\\appTests.csproj",
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\clobDataProcesser\\apiTests\\appTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleks\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
